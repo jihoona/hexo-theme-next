@@ -83,7 +83,6 @@ scheme: Mist
 
 
 # ---------------------------------------------------------------
-<<<<<<< HEAD
 # Font Settings
 # - Find fonts on Google Fonts (https://www.google.com/fonts)
 # - All fonts set here will have the following styles:
@@ -133,8 +132,6 @@ font:
 
 
 # ---------------------------------------------------------------
-=======
->>>>>>> b3aab0975bc818d6de8551ad2dfcf3f61d21d2a4
 # Sidebar Settings
 # ---------------------------------------------------------------
 
@@ -167,11 +164,7 @@ social_icons:
 # Sidebar Avatar
 # in theme directory(source/images): /images/avatar.jpg
 # in site  directory(source/uploads): /uploads/avatar.jpg
-<<<<<<< HEAD
 avatar: /images/avatar.jpg
-=======
-#avatar:
->>>>>>> b3aab0975bc818d6de8551ad2dfcf3f61d21d2a4
 
 # Table Of Contents in the Sidebar
 toc:
@@ -213,11 +206,7 @@ sidebar:
 
   # Scroll percent label in b2t button
   scrollpercent: false
-<<<<<<< HEAD
 
-=======
-  
->>>>>>> b3aab0975bc818d6de8551ad2dfcf3f61d21d2a4
   # Enable sidebar on narrow view
   onmobile: false
 
@@ -290,52 +279,6 @@ custom_logo:
 highlight_theme: normal
 
 
-
-# ---------------------------------------------------------------
-# Font Settings
-# - Find fonts on Google Fonts (https://www.google.com/fonts)
-# - All fonts set here will have the following styles:
-#     light, light italic, normal, normal italic, bold, bold italic
-# - Be aware that setting too much fonts will cause site running slowly
-# - Introduce in 5.0.1
-# ---------------------------------------------------------------
-font:
-  enable: true
-
-  # Uri of fonts host. E.g. //fonts.googleapis.com (Default)
-  host:
-
-  # Global font settings used on <body> element.
-  global:
-    # external: true will load this font family from host.
-    external: true
-    family: Lato
-
-  # Font settings for Headlines (h1, h2, h3, h4, h5, h6)
-  # Fallback to `global` font settings.
-  headings:
-    external: true
-    family:
-
-  # Font settings for posts
-  # Fallback to `global` font settings.
-  posts:
-    external: true
-    family:
-
-  # Font settings for Logo
-  # Fallback to `global` font settings.
-  # The `size` option use `px` as unit
-  logo:
-    external: true
-    family:
-    size:
-
-  # Font settings for <code> and code blocks.
-  codes:
-    external: true
-    family:
-    size:
 
 
 # ---------------------------------------------------------------
